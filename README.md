@@ -1,85 +1,168 @@
 <div align="center">
 
+<img src="https://img.shields.io/badge/✧%20SALEHACODES-9B647D?style=for-the-badge&labelColor=EBDCE4" alt="salehacodes" />
+
 # Saleha
-### Computer Science Student · AI/ML · Data Science · Software Engineering
 
-*Exploring ideas, building practical projects, and learning by doing.*
+**Computer Science Student** · AI/ML · Data Science · Software Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9B647D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleha-a-bb362a299/)
-[![GitHub](https://img.shields.io/badge/GitHub-@salehacodes-5C5360?style=flat-square&logo=github&logoColor=white)](https://github.com/salehacodes)
+*Curious about how things work. Interested in building things that matter.*
 
-✧ ───────────────────────── ⋆｡°✩°｡⋆ ───────────────────────── ✧
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-9B647D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleha-a-bb362a299/)
+[![GitHub](https://img.shields.io/badge/GITHUB-@salehacodes-6F6572?style=flat-square&logo=github&logoColor=white)](https://github.com/salehacodes)
+
+<sub>─────── ✧ ─────── ୨୧ ─────── ✧ ───────</sub>
 
 </div>
 
-## About
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I'm a Computer Science student interested in **AI and machine learning, data science, and software engineering**. I enjoy exploring how technology works, developing my technical foundations, and applying what I learn through practical projects.
+### ୨୧ A little about me
 
-This profile is a collection of my academic work, experiments, and ongoing learning.
+I'm a Computer Science student interested in **AI and machine learning, data science, and software engineering**.
 
-## Selected projects
+I like learning by building: exploring datasets, experimenting with models, solving programming problems, and developing software prototypes.
 
-### 🐝 BeeWare — in development
+</td>
+<td width="42%" valign="top">
 
-An ongoing capstone project exploring an **adaptive cybersecurity honeypot for simulated AI-driven attacks**. The project is currently in its documentation and requirements phase.
+### ✧ Currently exploring
 
-*Repository coming soon.*
+- Applied AI & machine learning
+- Data analysis and modelling
+- Software development
+- Programming fundamentals
 
-### 🛡️ [GuardianHER](https://github.com/salehacodes/GuardianHER) · Hackathon-winning prototype
+</td>
+</tr>
+</table>
 
-A prototype for a digital women's safety application, developed for a hackathon. The project explores how accessible digital tools can support personal safety.
+## ✧ Selected work
 
-- **Stack:** React, TypeScript, Node.js, Express, PostgreSQL
-- [View source code](https://github.com/salehacodes/GuardianHER) · [Try the prototype](https://guardian-her--salehaanwer53.replit.app/)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 · CURRENTLY BUILDING**
+
+### 🐝 BeeWare
+
+An adaptive cybersecurity honeypot designed to engage with and analyse simulated AI-driven attacks.
+
+<sub>University capstone · Requirements and documentation phase</sub>
+
+`AI security` `Cybersecurity` `Adaptive systems`
+
+<sub>Repository coming soon</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**02 · HACKATHON PROJECT**
+
+### 🛡️ [GuardianHER](https://github.com/salehacodes/GuardianHER)
+
+A women's safety application prototype exploring how accessible digital tools can support personal safety.
+
+<sub>Hackathon-winning project</sub>
+
+![React](https://img.shields.io/badge/React-9B647D?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-9B647D?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-77717D?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-77717D?style=flat-square&logo=postgresql&logoColor=white)
+
+[Repository](https://github.com/salehacodes/GuardianHER) · [Live prototype](https://guardian-her--salehaanwer53.replit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 · DATA ANALYSIS**
 
 ### 📊 [World Happiness Analysis](https://github.com/salehacodes/world-happiness-analysis)
 
-An exploratory analysis of the World Happiness Report (2015–2019), examining factors associated with national wellbeing, with a regional focus on the UAE.
-
-- **Tools:** Python, Pandas, SQL, Matplotlib, Seaborn, Excel
-- [Explore the analysis](https://github.com/salehacodes/world-happiness-analysis)
-
-### 🧠 [Student Dropout Prediction](https://github.com/HuzSuddle/CSCI323_Student_Dropout_Prediction) · Academic team project
-
-A collaborative machine learning project exploring prediction of university student dropout risk using academic, demographic, and behavioural factors.
-
-- **Methods:** Logistic Regression, Random Forest, SVM, soft-voting ensemble
-- **Tools:** Python, Pandas, NumPy, scikit-learn
-- *Hosted in a team member's repository.*
-
-### 💻 [LeetCode Practice](https://github.com/salehacodes/leetcode)
-
-A growing collection of coding-problem solutions as I practise problem-solving and strengthen my programming fundamentals.
-
-## Technologies
-
-**Languages**
+Exploratory analysis of the World Happiness Report (2015–2019), examining factors associated with national wellbeing and a UAE regional spotlight.
 
 ![Python](https://img.shields.io/badge/Python-9B647D?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-9B647D?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-9B647D?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-9B647D?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-77717D?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-77717D?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Tools & technologies**
+[Explore the analysis](https://github.com/salehacodes/world-happiness-analysis)
+
+</td>
+<td width="50%" valign="top">
+
+**04 · MACHINE LEARNING**
+
+### 🎓 [Student Dropout Prediction](https://github.com/HuzSuddle/CSCI323_Student_Dropout_Prediction)
+
+Collaborative academic project using machine learning to identify students who may be at risk of dropping out.
+
+<sub>Team project · Hosted in a teammate's repository</sub>
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-9B647D?style=flat-square&logo=scikitlearn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-77717D?style=flat-square&logo=python&logoColor=white)
+
+**Best model:** Logistic Regression<br>
+**Accuracy:** 74.05% · **ROC-AUC:** 0.819
+
+[View project](https://github.com/HuzSuddle/CSCI323_Student_Dropout_Prediction)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**ALSO ON MY PROFILE**
+
+[![LeetCode practice](https://img.shields.io/badge/⌘%20LeetCode%20Practice-View%20solutions-9B647D?style=flat-square)](https://github.com/salehacodes/leetcode)
+
+<sub>A growing log of coding-problem solutions and programming practice.</sub>
+
+</div>
+
+## ✧ Tools & technologies
+
+<div align="center">
+
+**LANGUAGES**
+
+![Python](https://img.shields.io/badge/Python-9B647D?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9B647D?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-9B647D?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**BACKEND · DATA · MACHINE LEARNING**
 
 ![Node.js](https://img.shields.io/badge/Node.js-77717D?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-77717D?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-77717D?style=flat-square&logo=mysql&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-77717D?style=flat-square&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-77717D?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-77717D?style=flat-square&logo=linux&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-77717D?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-77717D?style=flat-square&logo=qlik&logoColor=white)
 
-## GitHub activity
+**TOOLS**
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=salehacodes&show_icons=true&hide_border=true&bg_color=fffafc&title_color=9b647d&text_color=5c5360&icon_color=b77b96&rank_icon=none" alt="GitHub account statistics for salehacodes" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehacodes&layout=compact&hide_border=true&bg_color=fffafc&title_color=9b647d&text_color=5c5360&langs_count=6" alt="Most-used languages across public repositories" />
+![Git](https://img.shields.io/badge/Git-6F6572?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-6F6572?style=flat-square&logo=linux&logoColor=white)
 
 </div>
 
-<sub>Statistics are provided by a third-party service and may occasionally be unavailable. Language breakdowns reflect repository contents, not proficiency.</sub>
+## ✧ GitHub at a glance
+
+<div align="center">
+
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=salehacodes&show_icons=true&hide=rank&hide_border=true&bg_color=fffafc&title_color=9b647d&text_color=5c5360&icon_color=b77b96&ring_color=b77b96)](https://github.com/salehacodes)
+
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=salehacodes&layout=compact&hide_border=true&bg_color=fffafc&title_color=9b647d&text_color=5c5360&langs_count=6)](https://github.com/salehacodes)
+
+</div>
+
+<sub>These cards summarise public GitHub activity and repository language composition. Language percentages are not a measure of proficiency. GitHub's native contribution graph and activity feed appear elsewhere on my profile.</sub>
 
 ---
 
@@ -87,7 +170,7 @@ A growing collection of coding-problem solutions as I practise problem-solving a
 
 ### Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/Find_me_on_LinkedIn-9B647D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleha-a-bb362a299/)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-9B647D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleha-a-bb362a299/)
 
 <sub>Thanks for stopping by ✧</sub>
 
