@@ -1,22 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="salehacodes: Computer Science Student, AI/ML, Data Science, Software Engineering" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
-  <img src="assets/about-light.svg" width="100%" alt="About me: I'm a Computer Science student focused on building practical software and exploring how AI can make systems more adaptive, secure, and intelligent. I enjoy working across the stack, from data analysis and machine learning models to backend architecture and defensive security." />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.svg">
+  <img src="assets/banner-light-v2.svg" width="100%" alt="salehacodes: Computer Science Student in AI/ML, data science and software engineering. I'm focused on building practical software and exploring how AI can make systems more adaptive, secure, and intelligent." />
 </picture>
 
-<br/>
-<a href="https://www.linkedin.com/in/saleha-a-bb362a299/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-9B647D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://github.com/salehacodes?tab=repositories">
-  <img src="https://img.shields.io/badge/GITHUB-BROWSE_REPOS-9B647D?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories" />
-</a>
+<a href="https://www.linkedin.com/in/saleha-a-bb362a299/"><b><code>[ ↗ LINKEDIN ]</code></b></a>
+&nbsp;&nbsp;
+<a href="https://github.com/salehacodes?tab=repositories"><b><code>[ ↗ GITHUB REPOS ]</code></b></a>
+
 <br/>
 
 `━━━━━━━━━━ ⋆⋅☆⋅⋆ ━━━━━━━━━━`
