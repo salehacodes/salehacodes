@@ -2,59 +2,59 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFF7FA,50:F3DCE7,100:E8DCE5&height=125&section=header&text=Hi,%20this%20is%20Saleha!&fontSize=38&fontColor=87566F&fontAlignY=52&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7FA,45:F2D7E4,80:DFDCE6,100:D3D8E3&height=140&section=header&text=Hi,%20this%20is%20Saleha!&fontSize=36&fontColor=7A4963&fontAlignY=42&desc=CS%20Student%20%C2%B7%20AI,%20Data%20%26%20Software%20Engineering&descSize=15&descColor=6E6575&descAlignY=65&animation=fadeIn" width="100%" />
 
-**Computer Science student · Aspiring AI / Software Engineer**
-
-Exploring the intersection of intelligent systems, data and software engineering.
-
-<br/>
-
+<!-- Action Badges: Dusty Rose + Chrome Silver -->
 <a href="https://www.linkedin.com/in/saleha-a-bb362a299/">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-BA829B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/salehacodes">
-  <img src="https://img.shields.io/badge/GITHUB-Explore-8F7184?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/EMAIL-Say_Hello-8E99AD?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/salehacodes?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOS-Browse_All-7A4963?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
 
-`✦`　`♡`　`✧`　`⌗`　`✦`
+`[ ✦ STATUS: BUILDING & LEARNING ]` `♡` `[ ✧ LOC: DUBAI / REMOTE ]`
 
 </div>
 
----
+<br/>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### ♡ A little about me
+### `♡` ABOUT_ME.TXT <sub>— □ ×</sub>
 
-I'm a Computer Science student interested in building practical software and exploring how AI can make systems more useful, adaptive and intelligent.
+I'm a Computer Science student focused on building practical software and exploring how AI can make systems more adaptive, secure, and intelligent.
 
-I enjoy working across different areas of computing, from data analysis and machine learning to backend development and software engineering.
+I enjoy working across the stack—from data analysis and machine learning models to backend architecture and defensive security.
 
 </td>
 <td width="42%" valign="top">
 
-### ✧ Currently exploring
+### `✧` CURRENTLY_EXPLORING <sub>— □ ×</sub>
 
-- Artificial Intelligence & ML
-- Data Science
-- Backend Development
-- Intelligent Systems
-- Cybersecurity
+- `▸` **AI & Machine Learning**
+- `▸` **Cybersecurity & Honeypots**
+- `▸` **Data Science & Analytics**
+- `▸` **Backend Engineering**
+- `▸` **Intelligent Systems**
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
 
-`━━━━━━━  ✦  ━━━━━━━`
+`━━━━━━━━━━ ⋆⋅☆⋅⋆ ━━━━━━━━━━`
 
-## ⌗ Selected projects
+## `⌗` SELECTED PROJECTS
 
 </div>
 
@@ -62,22 +62,24 @@ I enjoy working across different areas of computing, from data analysis and mach
 <tr>
 <td width="50%" valign="top">
 
-### 🐝 BeeWare
+### 🐝 BeeWare `IN DEV`
 
 **Adaptive AI-driven cybersecurity honeypot**
 
-An academic capstone exploring how an adaptive honeypot can detect, classify and engage with agentic AI attacks.
+An academic capstone investigating how an adaptive honeypot detects, classifies, and engages autonomous agentic AI attacks in real time.
 
-`IN DEVELOPMENT`
+`Python` · `Cybersecurity` · `AI Agents`
 
 </td>
 <td width="50%" valign="top">
 
-### ♡ GuardianHER
+### ♡ GuardianHER `WINNER`
 
-**Hackathon-winning project**
+**Hackathon-winning personal safety app**
 
-A safety-focused software project developed as part of a hackathon. One of my early experiences building a solution collaboratively.
+A collaborative safety-focused software prototype built under hackathon constraints, featuring rapid alert routing and modular user protection tools.
+
+`Software Engineering` · `UI/UX` · `Team Build`
 
 [↗ View repository](https://github.com/salehacodes/GuardianHER)
 
@@ -88,9 +90,11 @@ A safety-focused software project developed as part of a hackathon. One of my ea
 
 ### ✧ World Happiness Analysis
 
-**Exploratory data analysis**
+**Exploratory data analysis & visualization**
 
-An exploration of global happiness data, looking at patterns, comparisons and trends across countries.
+Statistical exploration of global happiness indicators, uncovering correlations, regional patterns, and multi-year trends across countries.
+
+`Python` · `Pandas` · `Data Visualization`
 
 [↗ View repository](https://github.com/salehacodes/world-happiness-analysis)
 
@@ -99,9 +103,11 @@ An exploration of global happiness data, looking at patterns, comparisons and tr
 
 ### ⌗ Student Dropout Prediction
 
-**Collaborative machine learning project**
+**Collaborative machine learning pipeline**
 
-An academic team project exploring the use of machine learning to predict student dropout risk.
+End-to-end classification workflow evaluating academic and demographic features to identify at-risk students early.
+
+`Python` · `Scikit-Learn` · `ML`
 
 [↗ View team repository](https://github.com/HuzSuddle/CSCI323_Student_Dropout_Prediction)
 
@@ -111,43 +117,51 @@ An academic team project exploring the use of machine learning to predict studen
 
 <div align="center">
 
-[♡ LeetCode practice & solutions](https://github.com/salehacodes/leetcode)
+<br/>
 
-`━━━━━━━  ✦  ━━━━━━━`
+<a href="https://github.com/salehacodes/leetcode">
+  <img src="https://img.shields.io/badge/⌗_LEETCODE_ARCHIVE-View_Solutions_↗-F3DCE7?style=for-the-badge&labelColor=8E99AD&color=F3DCE7" />
+</a>
 
-## ⚙ Tech stack
+<br/><br/>
+
+`━━━━━━━━━━ ⋆⋅☆⋅⋆ ━━━━━━━━━━`
+
+## `⚙` TECH STACK
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-E8D5DF?style=flat-square&logo=python&logoColor=75566A)
-![JavaScript](https://img.shields.io/badge/JavaScript-E8D5DF?style=flat-square&logo=javascript&logoColor=75566A)
-![SQL](https://img.shields.io/badge/SQL-E8D5DF?style=flat-square&logo=postgresql&logoColor=75566A)
+![Python](https://img.shields.io/badge/Python-E8D5DF?style=for-the-badge&logo=python&logoColor=75566A)
+![JavaScript](https://img.shields.io/badge/JavaScript-E8D5DF?style=for-the-badge&logo=javascript&logoColor=75566A)
+![SQL](https://img.shields.io/badge/SQL-E8D5DF?style=for-the-badge&logo=postgresql&logoColor=75566A)
 
-**Backend & data**
+**Backend & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-F0E3EA?style=flat-square&logo=nodedotjs&logoColor=75566A)
-![Express](https://img.shields.io/badge/Express-F0E3EA?style=flat-square&logo=express&logoColor=75566A)
-![MySQL](https://img.shields.io/badge/MySQL-F0E3EA?style=flat-square&logo=mysql&logoColor=75566A)
+![Node.js](https://img.shields.io/badge/Node.js-E2E6EE?style=for-the-badge&logo=nodedotjs&logoColor=5A6275)
+![Express](https://img.shields.io/badge/Express-E2E6EE?style=for-the-badge&logo=express&logoColor=5A6275)
+![MySQL](https://img.shields.io/badge/MySQL-E2E6EE?style=for-the-badge&logo=mysql&logoColor=5A6275)
 
-**AI / ML & tools**
+**AI / ML & Tools**
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-E8D5DF?style=flat-square&logo=scikitlearn&logoColor=75566A)
-![Git](https://img.shields.io/badge/Git-E8D5DF?style=flat-square&logo=git&logoColor=75566A)
-![Linux](https://img.shields.io/badge/Linux-E8D5DF?style=flat-square&logo=linux&logoColor=75566A)
-
-`━━━━━━━  ✦  ━━━━━━━`
-
-## ♡ GitHub activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salehacodes&bg_color=fffafc&color=8f6378&line=b77b96&point=9b647d&area=true&hide_border=true&custom_title=Contribution%20activity" width="100%" alt="GitHub contribution activity graph" />
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F3DCE7?style=for-the-badge&logo=scikitlearn&logoColor=75566A)
+![Git](https://img.shields.io/badge/Git-F3DCE7?style=for-the-badge&logo=git&logoColor=75566A)
+![Linux](https://img.shields.io/badge/Linux-F3DCE7?style=for-the-badge&logo=linux&logoColor=75566A)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehacodes&layout=compact&langs_count=6&title_color=9b647d&text_color=806b78&bg_color=fffafc&hide_border=true" alt="Most used programming languages" />
+`━━━━━━━━━━ ⋆⋅☆⋅⋆ ━━━━━━━━━━`
+
+## `♡` GITHUB ANALYTICS
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salehacodes&bg_color=00000000&color=8f6378&line=b77b96&point=8E99AD&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
 
 <br/>
 
-`✧`　`♡`　`✦`　`⌗`　`✧`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehacodes&layout=compact&langs_count=6&title_color=9b647d&text_color=806b78&bg_color=00000000&border_color=E2E6EE" alt="Most used programming languages" />
+
+<br/><br/>
+
+`✧` `♡` `✦` `⌗` `✧`
 
 <sub>Thanks for stopping by! Have a lovely day ♡</sub>
 
