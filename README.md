@@ -4,40 +4,28 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img src="assets/banner-light.svg" width="100%" alt="salehacodes: Computer Science Student, AI/ML, Data Science, Software Engineering" />
 </picture>
-
-<a href="https://www.linkedin.com/in/saleha-a-bb362a299/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-BA829B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/salehacodes?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOS-Browse_All-7A4963?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
-</a>
-
-<br/><br/>
-
-`[ ✦ STATUS: BUILDING & LEARNING ]` `♡` `[ ✧ LOC: DUBAI / REMOTE ]`
-
-<br/>
-
-<img src="assets/pixel/bee.png" width="32" alt="" />
-<img src="assets/pixel/heart.png" width="32" alt="" />
-<img src="assets/pixel/star.png" width="32" alt="" />
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
   <img src="assets/about-light.svg" width="100%" alt="About me: I'm a Computer Science student focused on building practical software and exploring how AI can make systems more adaptive, secure, and intelligent. I enjoy working across the stack, from data analysis and machine learning models to backend architecture and defensive security." />
 </picture>
 
-<br/><br/>
+<br/>
+<a href="https://www.linkedin.com/in/saleha-a-bb362a299/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-9B647D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/salehacodes?tab=repositories">
+  <img src="https://img.shields.io/badge/GITHUB-BROWSE_REPOS-9B647D?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories" />
+</a>
+<br/>
 
 `━━━━━━━━━━ ⋆⋅☆⋅⋆ ━━━━━━━━━━`
 
 <!-- ✦ WINDOW 1: BEEWARE ✦ -->
-<table width="100%">
+<table>
   <tr>
-    <th align="left"><code>🐝 BEEWARE.EXE</code></th>
-    <th align="right"><code>—</code> <code>□</code> <code>×</code></th>
+    <th align="left" width="680"><code>🐝 BEEWARE.EXE</code></th>
+    <th align="right" width="150"><code>—</code> <code>□</code> <code>×</code></th>
   </tr>
   <tr>
     <td colspan="2">
@@ -51,10 +39,10 @@
 <br/>
 
 <!-- ✦ WINDOW 2: GUARDIANHER ✦ -->
-<table width="100%">
+<table>
   <tr>
-    <th align="left"><code>♡ GUARDIANHER.EXE</code></th>
-    <th align="right"><code>—</code> <code>□</code> <code>×</code></th>
+    <th align="left" width="680"><code>♡ GUARDIANHER</code></th>
+    <th align="right" width="150"><code>—</code> <code>□</code> <code>×</code></th>
   </tr>
   <tr>
     <td colspan="2">
@@ -70,8 +58,9 @@
 <!-- ✦ WINDOW 3: WORLD HAPPINESS ANALYSIS ✦ -->
 <table width="100%">
   <tr>
-    <th align="left"><code>✧ HAPPINESS_DATA.CSV</code></th>
-    <th align="right"><code>—</code> <code>□</code> <code>×</code></th>
+    <th align="left" width="680"><code>✧ HAPPINESS_DATA</code></th>
+    <th align="right" width="150"><code>—</code> <code>□</code> <code>×</code></th>
+
   </tr>
   <tr>
     <td colspan="2">
@@ -87,8 +76,8 @@
 <!-- ✦ WINDOW 4: STUDENT DROPOUT PREDICTION ✦ -->
 <table width="100%">
   <tr>
-    <th align="left"><code>⌗ DROPOUT_MODEL.PY</code></th>
-    <th align="right"><code>—</code> <code>□</code> <code>×</code></th>
+    <th align="left" width="680"><code>⌗ DROPOUT_MODEL</code></th>
+    <th align="right" width="150"><code>—</code> <code>□</code> <code>×</code></th>
   </tr>
   <tr>
     <td colspan="2">
@@ -124,22 +113,17 @@
 ![NumPy](https://img.shields.io/badge/NumPy-BA829B?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-BA829B?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-BA829B?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-BA829B?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-7A4963?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-7A4963?style=for-the-badge&logo=linux&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-7A4963?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <br/>
 
 `━━━━━━━━━━ ⋆⋅☆⋅⋆ ━━━━━━━━━━`
 
-<img src="assets/pixel/star.png" width="24" alt="" />
-<img src="assets/pixel/heart.png" width="24" alt="" />
-<img src="assets/pixel/bee.png" width="24" alt="" />
-<img src="assets/pixel/heart.png" width="24" alt="" />
-<img src="assets/pixel/star.png" width="24" alt="" />
+`✧` `♡` `✦` `⌗` `✧`
 
 <sub>Thanks for stopping by! Have a lovely day ♡</sub>
 
