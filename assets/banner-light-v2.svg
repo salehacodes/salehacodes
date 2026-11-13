@@ -52,9 +52,4 @@
 
   <line class="glass" x1="60" y1="392" x2="770" y2="392" stroke-width="1.5"/>
 
-  <!-- buttons -->
-  <rect class="btn" x="60" y="412" width="190" height="34" rx="8"/>
-  <text class="btntext" x="155" y="434" font-size="13" font-weight="700" text-anchor="middle">↗ LINKEDIN</text>
-  <rect class="btn" x="266" y="412" width="220" height="34" rx="8"/>
-  <text class="btntext" x="376" y="434" font-size="13" font-weight="700" text-anchor="middle">↗ GITHUB REPOS</text>
 </svg>
