@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 220" width="830" height="220" role="img" aria-label="salehacodes banner">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 486" width="830" height="486" role="img" aria-label="salehacodes banner and about me">
   <style>
     .g1{stop-color:#2A1F2B} .g2{stop-color:#1F2433}
     .glass{fill:#fff;fill-opacity:.07;stroke:#fff;stroke-opacity:.22}
-    .title{fill:#F3DCE7} .sub{fill:#CDB8C4}
+    .title{fill:#F3DCE7} .sub{fill:#CDB8C4} .body{fill:#DCC9D4}
+    .btn{fill:#8A5671} .btntext{fill:#fff}
     text{font-family:"SF Mono",Menlo,Consolas,"DejaVu Sans Mono",monospace}
   </style>
   <defs>
@@ -10,27 +11,50 @@
       <stop class="g1" offset="0"/><stop class="g2" offset="1"/>
     </linearGradient>
     <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="28"/>
+      <feGaussianBlur stdDeviation="30"/>
     </filter>
-    <clipPath id="clip"><rect width="830" height="220" rx="16"/></clipPath>
+    <clipPath id="clip"><rect width="830" height="486" rx="16"/></clipPath>
   </defs>
 
   <g clip-path="url(#clip)">
-    <rect width="830" height="220" fill="url(#bg)"/>
+    <rect width="830" height="486" fill="url(#bg)"/>
     <g filter="url(#blur)">
-      <circle cx="150" cy="60" r="70" fill="#BA829B" opacity=".55"/>
-      <circle cx="700" cy="170" r="80" fill="#8E99AD" opacity=".5"/>
-      <circle cx="430" cy="210" r="50" fill="#E8B4CC" opacity=".6"/>
+      <circle cx="140" cy="70" r="75" fill="#BA829B" opacity=".55"/>
+      <circle cx="710" cy="160" r="80" fill="#8E99AD" opacity=".5"/>
+      <circle cx="120" cy="430" r="70" fill="#E8B4CC" opacity=".55"/>
+      <circle cx="690" cy="440" r="70" fill="#BA829B" opacity=".4"/>
     </g>
   </g>
 
-  <rect class="glass" x="40" y="28" width="750" height="164" rx="18" stroke-width="1.5"/>
-  <line class="glass" x1="40" y1="64" x2="790" y2="64" stroke-width="1.5"/>
-  <circle cx="66" cy="46" r="5" fill="#BA829B"/>
-  <circle cx="86" cy="46" r="5" fill="#E8B4CC"/>
-  <circle cx="106" cy="46" r="5" fill="#8E99AD"/>
-  <text class="sub" x="764" y="51" font-size="12" text-anchor="end">~/saleha/profile.exe</text>
+  <!-- one window -->
+  <rect class="glass" x="30" y="24" width="770" height="438" rx="18" stroke-width="1.5"/>
+  <line class="glass" x1="30" y1="62" x2="800" y2="62" stroke-width="1.5"/>
+  <circle cx="56" cy="43" r="5" fill="#BA829B"/>
+  <circle cx="76" cy="43" r="5" fill="#E8B4CC"/>
+  <circle cx="96" cy="43" r="5" fill="#8E99AD"/>
+  <text class="sub" x="774" y="48" font-size="12" text-anchor="end">~/saleha/profile.exe</text>
 
-  <text class="title" x="415" y="122" font-size="46" font-weight="700" text-anchor="middle">✧ salehacodes ✧</text>
-  <text class="sub" x="415" y="156" font-size="14" text-anchor="middle">Computer Science Student · AI/ML · Data Science · Software Engineering</text>
+  <!-- header -->
+  <text class="title" x="415" y="125" font-size="44" font-weight="700" text-anchor="middle">✧ salehacodes ✧</text>
+  <text class="sub" x="415" y="155" font-size="14" text-anchor="middle">Computer Science Student · AI/ML · Data Science · Software Engineering</text>
+
+  <line class="glass" x1="60" y1="185" x2="770" y2="185" stroke-width="1.5"/>
+
+  <!-- about -->
+  <text class="title" x="60" y="222" font-size="14" font-weight="700">♡ ABOUT_ME.TXT</text>
+  <g class="body" font-size="14">
+    <text x="60" y="256">I'm a Computer Science student focused on building practical software</text>
+    <text x="60" y="280">and exploring how AI can make systems more adaptive, secure, and</text>
+    <text x="60" y="304">intelligent.</text>
+    <text x="60" y="340">I enjoy working across the stack: from data analysis and machine</text>
+    <text x="60" y="364">learning models to backend architecture and defensive security.</text>
+  </g>
+
+  <line class="glass" x1="60" y1="392" x2="770" y2="392" stroke-width="1.5"/>
+
+  <!-- buttons -->
+  <rect class="btn" x="60" y="412" width="190" height="34" rx="8"/>
+  <text class="btntext" x="155" y="434" font-size="13" font-weight="700" text-anchor="middle">↗ LINKEDIN</text>
+  <rect class="btn" x="266" y="412" width="220" height="34" rx="8"/>
+  <text class="btntext" x="376" y="434" font-size="13" font-weight="700" text-anchor="middle">↗ GITHUB REPOS</text>
 </svg>
