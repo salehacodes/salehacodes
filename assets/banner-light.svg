@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 220" width="830" height="220" role="img" aria-label="salehacodes banner">
+  <style>
+    .g1{stop-color:#F3DCE7} .g2{stop-color:#DCE2F0}
+    .glass{fill:#fff;fill-opacity:.38;stroke:#fff;stroke-opacity:.8}
+    .title{fill:#4A2F40} .sub{fill:#75566A}
+    text{font-family:"SF Mono",Menlo,Consolas,"DejaVu Sans Mono",monospace}
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop class="g1" offset="0"/><stop class="g2" offset="1"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+    <clipPath id="clip"><rect width="830" height="220" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="830" height="220" fill="url(#bg)"/>
+    <g filter="url(#blur)">
+      <circle cx="150" cy="60" r="70" fill="#BA829B" opacity=".55"/>
+      <circle cx="700" cy="170" r="80" fill="#8E99AD" opacity=".5"/>
+      <circle cx="430" cy="210" r="50" fill="#E8B4CC" opacity=".6"/>
+    </g>
+  </g>
+
+  <rect class="glass" x="40" y="28" width="750" height="164" rx="18" stroke-width="1.5"/>
+  <line class="glass" x1="40" y1="64" x2="790" y2="64" stroke-width="1.5"/>
+  <circle cx="66" cy="46" r="5" fill="#BA829B"/>
+  <circle cx="86" cy="46" r="5" fill="#E8B4CC"/>
+  <circle cx="106" cy="46" r="5" fill="#8E99AD"/>
+  <text class="sub" x="764" y="51" font-size="12" text-anchor="end">~/saleha/profile.exe</text>
+
+  <text class="title" x="415" y="122" font-size="46" font-weight="700" text-anchor="middle">✧ salehacodes ✧</text>
+  <text class="sub" x="415" y="156" font-size="14" text-anchor="middle">Computer Science Student · AI/ML · Data Science · Software Engineering</text>
+</svg>
