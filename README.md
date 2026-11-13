@@ -1,129 +1,105 @@
-<!-- ✦ SALEHACODES · GITHUB PROFILE README ✦ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7FA,45:F2D7E4,80:DFDCE6,100:D3D8E3&height=140&section=header&text=Hi,%20this%20is%20Saleha!&fontSize=36&fontColor=7A4963&fontAlignY=42&desc=CS%20Student%20%C2%B7%20AI,%20Data%20%26%20Software%20Engineering&descSize=15&descColor=6E6575&descAlignY=65&animation=fadeIn" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="salehacodes: Computer Science Student, AI/ML, Data Science, Software Engineering" />
+</picture>
 
-<!-- Action Badges: Dusty Rose + Chrome Silver -->
 <a href="https://www.linkedin.com/in/saleha-a-bb362a299/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-BA829B?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/EMAIL-Say_Hello-8E99AD?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-BA829B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/salehacodes?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOS-Browse_All-7A4963?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REPOS-Browse_All-7A4963?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
 </a>
 
 <br/><br/>
 
 `[ ✦ STATUS: BUILDING & LEARNING ]` `♡` `[ ✧ LOC: DUBAI / REMOTE ]`
 
-</div>
-
 <br/>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<img src="assets/pixel/bee.png" width="32" alt="" />
+<img src="assets/pixel/heart.png" width="32" alt="" />
+<img src="assets/pixel/star.png" width="32" alt="" />
 
-### `♡` ABOUT_ME.TXT <sub>— □ ×</sub>
+<br/><br/>
 
-I'm a Computer Science student focused on building practical software and exploring how AI can make systems more adaptive, secure, and intelligent.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
+  <img src="assets/about-light.svg" width="100%" alt="About me: I'm a Computer Science student focused on building practical software and exploring how AI can make systems more adaptive, secure, and intelligent. I enjoy working across the stack, from data analysis and machine learning models to backend architecture and defensive security." />
+</picture>
 
-I enjoy working across the stack—from data analysis and machine learning models to backend architecture and defensive security.
-
-</td>
-<td width="42%" valign="top">
-
-### `✧` CURRENTLY_EXPLORING <sub>— □ ×</sub>
-
-- `▸` **AI & Machine Learning**
-- `▸` **Cybersecurity & Honeypots**
-- `▸` **Data Science & Analytics**
-- `▸` **Backend Engineering**
-- `▸` **Intelligent Systems**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 `━━━━━━━━━━ ⋆⋅☆⋅⋆ ━━━━━━━━━━`
 
-## `⌗` SELECTED PROJECTS
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐝 BeeWare `IN DEV`
-
-**Adaptive AI-driven cybersecurity honeypot**
-
-An academic capstone investigating how an adaptive honeypot detects, classifies, and engages autonomous agentic AI attacks in real time.
-
-`Python` · `Cybersecurity` · `AI Agents`
-
-</td>
-<td width="50%" valign="top">
-
-### ♡ GuardianHER `WINNER`
-
-**Hackathon-winning personal safety app**
-
-A collaborative safety-focused software prototype built under hackathon constraints, featuring rapid alert routing and modular user protection tools.
-
-`Software Engineering` · `UI/UX` · `Team Build`
-
-[↗ View repository](https://github.com/salehacodes/GuardianHER)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✧ World Happiness Analysis
-
-**Exploratory data analysis & visualization**
-
-Statistical exploration of global happiness indicators, uncovering correlations, regional patterns, and multi-year trends across countries.
-
-`Python` · `Pandas` · `Data Visualization`
-
-[↗ View repository](https://github.com/salehacodes/world-happiness-analysis)
-
-</td>
-<td width="50%" valign="top">
-
-### ⌗ Student Dropout Prediction
-
-**Collaborative machine learning pipeline**
-
-End-to-end classification workflow evaluating academic and demographic features to identify at-risk students early.
-
-`Python` · `Scikit-Learn` · `ML`
-
-[↗ View team repository](https://github.com/HuzSuddle/CSCI323_Student_Dropout_Prediction)
-
-</td>
-</tr>
+<!-- ✦ WINDOW 1: BEEWARE ✦ -->
+<table width="100%">
+  <tr>
+    <th align="left"><code>🐝 BEEWARE.EXE</code></th>
+    <th align="right"><code>—</code> <code>□</code> <code>×</code></th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <b>Adaptive AI-driven cybersecurity honeypot</b> · <img src="https://img.shields.io/badge/IN_DEVELOPMENT-F3DCE7?style=flat-square" align="absmiddle" alt="In development" /><br/><br/>
+      An academic capstone investigating how an adaptive honeypot detects, classifies, and engages autonomous agentic AI attacks in real time.<br/><br/>
+      <code>♡ Python</code> <code>✦ Cybersecurity</code> <code>✧ AI Agents</code>
+    </td>
+  </tr>
 </table>
-
-<div align="center">
 
 <br/>
 
-<a href="https://github.com/salehacodes/leetcode">
-  <img src="https://img.shields.io/badge/⌗_LEETCODE_ARCHIVE-View_Solutions_↗-F3DCE7?style=for-the-badge&labelColor=8E99AD&color=F3DCE7" />
-</a>
+<!-- ✦ WINDOW 2: GUARDIANHER ✦ -->
+<table width="100%">
+  <tr>
+    <th align="left"><code>♡ GUARDIANHER.EXE</code></th>
+    <th align="right"><code>—</code> <code>□</code> <code>×</code></th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <b>Hackathon-winning personal safety app</b> · <img src="https://img.shields.io/badge/WINNER-BA829B?style=flat-square" align="absmiddle" alt="Winner" /><br/><br/>
+      A collaborative safety-focused software prototype built under hackathon constraints, featuring rapid alert routing and modular user protection tools.<br/><br/>
+      <code>♡ Software Engineering</code> <code>✦ UI/UX</code> <code>✧ Team Build</code> · <a href="https://github.com/salehacodes/GuardianHER"><b><code>[ ↗ VIEW_REPO ]</code></b></a>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
+
+<!-- ✦ WINDOW 3: WORLD HAPPINESS ANALYSIS ✦ -->
+<table width="100%">
+  <tr>
+    <th align="left"><code>✧ HAPPINESS_DATA.CSV</code></th>
+    <th align="right"><code>—</code> <code>□</code> <code>×</code></th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <b>Exploratory data analysis & visualization</b> · <img src="https://img.shields.io/badge/COMPLETED-8E99AD?style=flat-square" align="absmiddle" alt="Completed" /><br/><br/>
+      Statistical exploration of global happiness indicators, uncovering correlations, regional patterns, and multi-year trends across countries.<br/><br/>
+      <code>♡ Python</code> <code>✦ Pandas</code> <code>✧ Data Viz</code> · <a href="https://github.com/salehacodes/world-happiness-analysis"><b><code>[ ↗ VIEW_REPO ]</code></b></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ✦ WINDOW 4: STUDENT DROPOUT PREDICTION ✦ -->
+<table width="100%">
+  <tr>
+    <th align="left"><code>⌗ DROPOUT_MODEL.PY</code></th>
+    <th align="right"><code>—</code> <code>□</code> <code>×</code></th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <b>Collaborative machine learning pipeline</b> · <img src="https://img.shields.io/badge/TEAM_PROJECT-7A4963?style=flat-square" align="absmiddle" alt="Team project" /><br/><br/>
+      End-to-end classification workflow evaluating academic and demographic features to identify at-risk students early.<br/><br/>
+      <code>♡ Python</code> <code>✦ Scikit-Learn</code> <code>✧ ML</code> · <a href="https://github.com/HuzSuddle/CSCI323_Student_Dropout_Prediction"><b><code>[ ↗ VIEW_REPO ]</code></b></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 `━━━━━━━━━━ ⋆⋅☆⋅⋆ ━━━━━━━━━━`
 
@@ -131,37 +107,39 @@ End-to-end classification workflow evaluating academic and demographic features 
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-E8D5DF?style=for-the-badge&logo=python&logoColor=75566A)
-![JavaScript](https://img.shields.io/badge/JavaScript-E8D5DF?style=for-the-badge&logo=javascript&logoColor=75566A)
-![SQL](https://img.shields.io/badge/SQL-E8D5DF?style=for-the-badge&logo=postgresql&logoColor=75566A)
+![Python](https://img.shields.io/badge/Python-9B647D?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9B647D?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-9B647D?style=for-the-badge)
 
 **Backend & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-E2E6EE?style=for-the-badge&logo=nodedotjs&logoColor=5A6275)
-![Express](https://img.shields.io/badge/Express-E2E6EE?style=for-the-badge&logo=express&logoColor=5A6275)
-![MySQL](https://img.shields.io/badge/MySQL-E2E6EE?style=for-the-badge&logo=mysql&logoColor=5A6275)
+![Node.js](https://img.shields.io/badge/Node.js-6F7A94?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-6F7A94?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-6F7A94?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI / ML & Tools**
+**Data Science & ML**
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F3DCE7?style=for-the-badge&logo=scikitlearn&logoColor=75566A)
-![Git](https://img.shields.io/badge/Git-F3DCE7?style=for-the-badge&logo=git&logoColor=75566A)
-![Linux](https://img.shields.io/badge/Linux-F3DCE7?style=for-the-badge&logo=linux&logoColor=75566A)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-BA829B?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-BA829B?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-BA829B?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-BA829B?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-BA829B?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-BA829B?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-7A4963?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-7A4963?style=for-the-badge&logo=linux&logoColor=white)
 
 <br/>
 
 `━━━━━━━━━━ ⋆⋅☆⋅⋆ ━━━━━━━━━━`
 
-## `♡` GITHUB ANALYTICS
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salehacodes&bg_color=00000000&color=8f6378&line=b77b96&point=8E99AD&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehacodes&layout=compact&langs_count=6&title_color=9b647d&text_color=806b78&bg_color=00000000&border_color=E2E6EE" alt="Most used programming languages" />
-
-<br/><br/>
-
-`✧` `♡` `✦` `⌗` `✧`
+<img src="assets/pixel/star.png" width="24" alt="" />
+<img src="assets/pixel/heart.png" width="24" alt="" />
+<img src="assets/pixel/bee.png" width="24" alt="" />
+<img src="assets/pixel/heart.png" width="24" alt="" />
+<img src="assets/pixel/star.png" width="24" alt="" />
 
 <sub>Thanks for stopping by! Have a lovely day ♡</sub>
 
